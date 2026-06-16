@@ -1,5 +1,4 @@
 # House-Price-Prediction
-# House Price Prediction
 
 **Intern ID:** CITS1931  
 **Full Name:** Boddu Neha Madhuri  
@@ -47,7 +46,7 @@ The **XGBoost Regressor** was selected as the final model because it achieved th
 ---
 
 ## 🚀 How to Use
-# House Price Prediction
+
 
 ## Clone Repository
 
