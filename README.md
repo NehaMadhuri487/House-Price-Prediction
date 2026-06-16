@@ -47,7 +47,26 @@ The **XGBoost Regressor** was selected as the final model because it achieved th
 ---
 
 ## 🚀 How to Use
-1. Clone the repository.  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
+## Clone Repository
+
+```bash
+git clone https://github.com/NehaMadhuri487/House-Price-Prediction.git
+```
+
+## Navigate to Project Folder
+
+```bash
+cd House-Price-Prediction
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Project
+
+```bash
+streamlit run app.py
+```
