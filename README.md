@@ -47,6 +47,8 @@ The **XGBoost Regressor** was selected as the final model because it achieved th
 ---
 
 ## 🚀 How to Use
+# House Price Prediction
+
 ## Clone Repository
 
 ```bash
@@ -59,14 +61,16 @@ git clone https://github.com/NehaMadhuri487/House-Price-Prediction.git
 cd House-Price-Prediction
 ```
 
-## Install Dependencies
+## Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run the Project
+## Open Jupyter Notebook
 
 ```bash
-streamlit run app.py
+jupyter notebook
 ```
+
+Then open the `.ipynb` file and run all cells.
